@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "martin@muimota.net",
+  "author": "Mario Romera",
   "license": "MIT",
   "dependencies": {
     "consolidate": "^0.14.5",
